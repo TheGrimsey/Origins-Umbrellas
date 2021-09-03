@@ -2,9 +2,9 @@
   "required": true,
   "minVersion": "0.8",
   "package": "com.fusionflux.originsumbrellas.mixin",
-  "compatibilityLevel": "JAVA_8",
+  "compatibilityLevel": "JAVA_16",
   "mixins": [
-    "PlayerConditionsMixin",
+    "EntityConditionsMixin",
     "PlayerEntityMixin"
   ],
   "client": [
